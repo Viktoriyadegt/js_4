@@ -1,0 +1,15 @@
+var scores = {
+    Lena: 5,
+    Kirill: 7,
+    Dasha: 9,
+    Vika: 4};
+
+undefined
+scores.Lena += 7;
+12
+scores.Lena;
+12
+scores.Vika += 10;
+14
+scores.Vika;
+14
